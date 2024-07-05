@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanskw4267&theme=jolly)
-![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanskw4267&theme=jolly)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanskw4267&theme=dracula)
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanskw4267&theme=dracula)
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanskw4267&theme=jolly)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanskw4267&theme=dracula)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hanskw4267)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hanskw4267&theme=dracula)
 
 <!--
 Here are some ideas to get you started:
